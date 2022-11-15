@@ -5,33 +5,41 @@
   "seller_fee_basis_points": 200,
   "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://metadata.y00ts.com/y/11673.png",
   "attributes": [
-{
+ {
       "trait_type": "Background",
-      "value": "Vanilla Ice"
+      "value": "Moss"
     },
     {
-      "trait_type": "Fur",
-      "value": "Paradise Green"
+      "trait_type": "Skin",
+      "value": "Psyche"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Medic"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "None"
     },
     {
       "trait_type": "Face",
-      "value": "Chill"
+      "value": "Bones Mask"
     },
     {
-      "trait_type": "Clothes",
-      "value": "Miracle Jersey"
-    },
-    {
-      "trait_type": "Head",
-      "value": "Banana Beanie"
+      "trait_type": "Mouth",
+      "value": "None"
     },
     {
       "trait_type": "Eyewear",
-      "value": "Cali Sunset"
+      "value": "None"
     },
     {
-      "trait_type": "1/1",
+      "trait_type": "Hair",
       "value": "None"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Bear Pelt(2)"
     }
     ],
     "category": "image",
